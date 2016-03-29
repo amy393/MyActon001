@@ -3,12 +3,3 @@
 
 
 #~~test~~
-
-
-**bsbdsds ds**
-
-#code 
->
-
-sdsdsdssd
-''''
